@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         GeometryPreview {
-            Q1C()
+            Q2A()
         }
     }
 }
